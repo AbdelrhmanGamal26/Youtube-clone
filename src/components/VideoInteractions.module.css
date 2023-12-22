@@ -1,0 +1,9 @@
+.interactions li {
+  cursor: pointer;
+  padding: 5px 8px;
+}
+
+.interactions li:hover {
+  background-color: gray;
+  border-radius: 5px;
+}

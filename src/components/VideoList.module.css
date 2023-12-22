@@ -1,0 +1,15 @@
+.thumbnailContainer {
+  cursor: pointer;
+}
+
+.thumbnailOverlay {
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+}
+
+.thumbnailOverlay img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
